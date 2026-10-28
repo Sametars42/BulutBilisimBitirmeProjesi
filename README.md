@@ -1,6 +1,4 @@
-Projeye Başlama Tarihi: 19.10.2026
-
-# BulutBili-im_BitirmeProjesi
+#  BulutBilisim_BitirmeProjesi            ( Başlama/Biriş Tarihi: 20.10.2026-(-) )
 #  AWS Bulut Tabanlı Dağıtık Sunucu Yönetim ve Otomasyon Platformu
 
 > Bulut Bilişim Operatörlüğü Bölümü Bitirme Projesi  
